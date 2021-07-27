@@ -1,0 +1,2 @@
+open cmd in folder and type:
+python Basketball.py
