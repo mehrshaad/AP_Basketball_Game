@@ -53,13 +53,13 @@ python3 Basketball.py
 ```
 
 ## How to play
-  ### Choose a mode to play: [Solo](https://github.com/mehrshaad/AP_Basketball_Project#solo) or [Multi-Player](https://github.com/mehrshaad/AP_Basketball_Project#multi-player)
+  ### Choose a mode to play: [Solo](#solo) or [Multi-Player](#multi-player)
   ![ScreenRec 0014](https://user-images.githubusercontent.com/60104751/130366579-d04f83a2-b7d6-4fd4-90e6-a9d50ee42e4a.jpg)
 
   ---
 
   ### Solo
-  #### Enter username ([sign up](https://github.com/mehrshaad/AP_Basketball_Project#sign-up) if it's your first time) - select difficulty - select your player color
+  #### Enter username ([sign up](#sign-up) if it's your first time) - select difficulty - select your player color
   ![ScreenRec 0016](https://user-images.githubusercontent.com/60104751/130366814-47de448a-c783-4120-ac00-102fe216d1b6.jpg)
 
   #### Hit the basket!
@@ -68,7 +68,7 @@ python3 Basketball.py
   ---
 
   ### Multi-Player
-  #### Enter usernames ([sign up](https://github.com/mehrshaad/AP_Basketball_Project#sign-up) if it's your first time)
+  #### Enter usernames ([sign up](#sign-up) if it's your first time)
   ![ScreenRec 0019](https://user-images.githubusercontent.com/60104751/130367198-fe4dbe5d-2d1e-4a40-b749-f0e8a4dfc59b.jpg)
 
   #### Select your players color
