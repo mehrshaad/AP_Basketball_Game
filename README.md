@@ -1,3 +1,24 @@
+# Basketball-game project
++ [Project summary](#project-summary)
++ [How to run](#how-to-run)
++ [How to play](#how-to-play)
+  + [Sign Up](#sign-up)
+    + [Enter your username and name](#enter-your-username-and-name) 
+  + [Choose a mode to play](#choose-a-mode-to-play-solo-or-multi-player)
+    + [Solo mode](#solo-mode)
+      + [Enter username (sign up if it's your first time) - select difficulty - select your player color](#enter-username-sign-up-if-its-your-first-time---select-difficulty---select-your-player-color)
+      + [Hit the basket!](#hit-the-basket)
+    + [Multi-Player mode](#multi-player-mode)
+      + [Enter usernames (sign up if it's your first time)](#enter-usernames-sign-up-if-its-your-first-time)
+      + [Select each player's color](#select-each-players-color)
+      + [Try to defeat your opponent!](#try-to-defeat-your-opponent)
+        + [1st player controlls](#1st-player-controlls)
+        + [2nd player controlls](#2nd-player-controlls)
++ [Team (alphabetical order)](#team-alphabetical-order)
+  + [Ali Dadashzadeh](#ali-dadashzadeh)
+  + [Kiyan Rezaee](#kiyan-rezaee)
+  + [Vahid Aghilzadeh](#vahid-aghilzadeh)
+
 ## Project summary
 <p align="justify">
   This project was one of the final projects of our <b>Advanced Programming</b> course at the <a href="https://guilan.ac.ir/en/home"><b>Guilan University</b></a>, which was instructed by <a href="https://staff.guilan.ac.ir/eskandari/?lg=1">Prof. <b>Sadegh Eskandari</b></a>, that we'd to implement one of them to pass the course. But we'd decided to do both available projects, so we passed the course with the max score (20 of 20). This project was also the best project of the course at the time (you can check the website of the course by clicking <a href="https://sadegh28.github.io/AP98992/projects.html">here</a>). After that, we were offered to be <b>Teaching Assistants</b> of the course for the next semesters.
@@ -37,9 +58,9 @@ pip3 install pygame
 </details>
 
 <p align="justify">
-  Then you've to download and extract the project codes from <a href="https://github.com/mehrshaad/AP_Basketball_Project/releases">releases page</a>.
+  Then you have to download and extract the project files from <a href="https://github.com/mehrshaad/AP_Basketball_Project/releases">releases page</a>.
   <br>
-  Then go to that folder and open the terminal in that folder and enter one of these commands (depends on your OS).
+  Then direct to that folder and open the terminal in that folder and enter one of these commands (choose the right one based on your OS).
 </p>
 
 Windows:
@@ -53,12 +74,12 @@ python3 Basketball.py
 ```
 
 ## How to play
-  ### Choose a mode to play: [Solo](#solo) or [Multi-Player](#multi-player)
+  ### Choose a mode to play: [Solo](#solo-mode) or [Multi-Player](#multi-player-mode)
   ![ScreenRec 0014](https://user-images.githubusercontent.com/60104751/130366579-d04f83a2-b7d6-4fd4-90e6-a9d50ee42e4a.jpg)
 
   ---
 
-  ### Solo
+  ### Solo mode
   #### Enter username ([sign up](#sign-up) if it's your first time) - select difficulty - select your player color
   ![ScreenRec 0016](https://user-images.githubusercontent.com/60104751/130366814-47de448a-c783-4120-ac00-102fe216d1b6.jpg)
 
@@ -67,20 +88,20 @@ python3 Basketball.py
 
   ---
 
-  ### Multi-Player
+  ### Multi-Player mode
   #### Enter usernames ([sign up](#sign-up) if it's your first time)
   ![ScreenRec 0019](https://user-images.githubusercontent.com/60104751/130367198-fe4dbe5d-2d1e-4a40-b749-f0e8a4dfc59b.jpg)
 
-  #### Select your players color
+  #### Select each player's color
   ![ScreenRec 0020](https://user-images.githubusercontent.com/60104751/130367228-760ad243-2543-4a83-b475-df7583a40d0f.jpg)
 
   #### Try to defeat your opponent!
-  ##### 1st player:
+  ##### 1st player controlls:
   + Moves with: `Arrow keys`
   + Shoots with: `L`
   + Goal: `Left`
 
-  ##### 2nd player:
+  ##### 2nd player controlls:
   + Moves with: `WASD keys`
   + Shoots with: `V`
   + Goal: `Right`
@@ -94,32 +115,20 @@ python3 Basketball.py
   ![ScreenRec 0018](https://user-images.githubusercontent.com/60104751/130367327-a6d71bd1-8c09-40e4-af25-0858b62f4435.jpg)
 
 ## Team (alphabetical order)
-<details>
-  <summary><b>Ali Dadashzadeh</b></summary>
-  <br>
-  <a href="https://github.com/mehrshaad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mehrshad-dadashzadeh-7053491b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mehrdadashzadeh1379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <hr/>
-</details>
+### Ali Dadashzadeh
+> <a href="https://github.com/mehrshaad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+>> <a href="mailto:mehrdadashzadeh1379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+>>> <a href="https://www.linkedin.com/in/mehrshad-dadashzadeh-7053491b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+### Kiyan Rezaee
+> <a href="https://github.com/kiyan-rezaee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+>> <a href="mailto:kiyanrezaee17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+>>> <a href="https://www.linkedin.com/in/kiyan-rezaee-7631751a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<details>
-  <summary><b>Kiyan Rezaee</b></summary>
-  <br>
-  <a href="https://github.com/kiyan-rezaee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kiyan-rezaee-7631751a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kiyanrezaee17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <hr/>
-</details>
-
-<details>
-  <summary><b>Vahid Aghilzadeh</b></summary>
-  <br>
-  <a href="https://github.com/vahidaghili"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vahid-aghilzadeh-790b20158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vahidaghilizadeh.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</details>
-
+### Vahid Aghilzadeh
+> <a href="https://github.com/vahidaghili"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+>> <a href="mailto:vahidaghilizadeh.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+>>> <a href="https://www.linkedin.com/in/vahid-aghilzadeh-790b20158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <hr/>
 <p align="center">
     © Summer 2020 Ma3ta team
