@@ -15,7 +15,7 @@
         + [1st player controlls](#1st-player-controlls)
         + [2nd player controlls](#2nd-player-controlls)
 + [Team (alphabetical order)](#team-alphabetical-order)
-  + [Ali (Mehrshad) Dadashzadeh](#ali-dadashzadeh)
+  + [Ali Dadashzadeh](#ali-dadashzadeh)
   + [Kiyan Rezaee](#kiyan-rezaee)
   + [Vahid Aghilzadeh](#vahid-aghilzadeh)
 
